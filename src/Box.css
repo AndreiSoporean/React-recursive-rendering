@@ -1,0 +1,28 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  border: solid 2px #cc0000;
+  background: #dedede;
+  padding: 8px;
+  flex: 50% 0;
+  min-height: 150px;
+  margin: 10px;
+}
+
+.info p {
+  margin: 0;
+}
+
+.info span {
+  font-size: 8px;
+  font-weight: 600;
+}
+
+.wrapper {
+  display: flex;
+  background: yellow;
+}
+
+.leaf {
+  background: cyan;
+}
